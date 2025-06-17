@@ -1,1 +1,2 @@
-# CollegeCarnival.github.io
+# This is College Carnival 
+# Please join
